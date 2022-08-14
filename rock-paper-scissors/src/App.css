@@ -26,5 +26,6 @@ h1 {
     font-family: 'Barlow Semi Condensed', sans-serif;
     font-weight: 800;
     text-transform: uppercase;
-    color: hsl(0, 100%, 100%)
+    color: hsl(0, 100%, 100%);
+    word-spacing: 100vw;
 }
