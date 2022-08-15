@@ -57,3 +57,16 @@ h1 {
     color: hsl(229, 25%, 31%);
     font-size: 3rem;
 }
+
+.attribution {
+    color: hsl(0, 100%, 100%);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+.attribution a,
+.attribution a:visited {
+    color: hsl(217, 16%, 45%);
+}
